@@ -26,4 +26,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Agradecemos todas as contribuições, grandes ou pequenas! Sua ajuda é fundamental para o crescimento e melhoria contínua deste nosso grande projeto.
 
-#home_section
+home_section
