@@ -1,12 +1,27 @@
 # CP5 FRONT-END - MELODIA
 
+## Integrantes
+
+Nickolas Moreno Cardoso - RM557132
+Kaio Drago Lima Souza - RM556095  
+André - RM556384
+Lucas Roggerio Imparato - RM554896
+##Integrantes
+
+## Descrição
+
 Site "FRONT-END" desenvolvido como um trabalho da matéria de Front End da Escola de Ensino Superior Fiap da sala 1-ESB(Engenharia de Software B). Este projeto foi feito também para testar nossos conhecimentos como profissionais em treinamento onde nós deveriamos tentar criar um site de musica.
   
 ## Tecnologias Usadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- Linguagem de Programação: CSS, SASS, JSON
+- CSS
+- SASS
+- JSON
+- Bootstrap
+- Font Awesome
+- Google Fontes
 ![Captura de tela 2024-10-04 150301](https://github.com/user-attachments/assets/8a098ea1-b040-4236-b1be-220392e9ccdd)
 ![Captura de tela 2024-10-04 150404](https://github.com/user-attachments/assets/1c454612-b118-4ee9-8ed6-ad33c17b8e97)
 ![Captura de tela 2024-10-04 150440](https://github.com/user-attachments/assets/c8698cf3-183e-4e8a-bfd6-20ddc4957ce2)
