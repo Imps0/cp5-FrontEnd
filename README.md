@@ -22,6 +22,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Bootstrap
 - Font Awesome
 - Google Fontes
+
+## Imagens do Projeto
 ![Captura de tela 2024-10-04 150301](https://github.com/user-attachments/assets/8a098ea1-b040-4236-b1be-220392e9ccdd)
 ![Captura de tela 2024-10-04 150404](https://github.com/user-attachments/assets/1c454612-b118-4ee9-8ed6-ad33c17b8e97)
 ![Captura de tela 2024-10-04 150440](https://github.com/user-attachments/assets/c8698cf3-183e-4e8a-bfd6-20ddc4957ce2)
@@ -34,8 +36,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Crie Playlists Personalizadas**: Crie suas proprias playlists para guardar suas musicas favoritas, e escuta-las quando desejar.
 - **Descubra novos artistas**: Encontre o seu novo artista favorito hoje.
 - **Interface Intuitiva**: Não tenha dificuldades em nosso site.
-
-## Imagens do Projeto
 
 **Agradecimentos**
 
